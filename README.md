@@ -5,6 +5,6 @@ Probably they :
 - are not effective
 - are not simple
 - are not compiled
-- are not following any code-style
+- do not follow any code-style
 
 🙃
