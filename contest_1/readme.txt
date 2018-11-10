@@ -1,0 +1,1 @@
+First contest, based on basic algorithms/data structures.
