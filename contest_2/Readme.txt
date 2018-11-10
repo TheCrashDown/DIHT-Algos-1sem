@@ -1,1 +1,1 @@
-Second task, based on sorting algorithms.
+Second contest, based on sorting algorithms.

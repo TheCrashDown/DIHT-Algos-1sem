@@ -1,1 +1,1 @@
-First task, based on basic algorithms/data structures.
+First contest, based on basic algorithms/data structures.
