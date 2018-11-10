@@ -1,0 +1,1 @@
+First task, based on basic algorithms/data structures.
