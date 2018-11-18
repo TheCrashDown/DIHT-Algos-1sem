@@ -1,1 +1,1 @@
-First contest, based on basic algorithms/data structures.
+Basic algorithms/data structures.
