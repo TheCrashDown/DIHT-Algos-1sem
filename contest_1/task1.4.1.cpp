@@ -1,8 +1,8 @@
-/*Реализовать очередь с динамическим зацикленным буфером.
-Обрабатывать команды push back и pop front.
-
-Выполнил : Lev "Crashdown" Vinokurov
-
+/* Task :
+   Реализовать очередь с динамическим зацикленным буфером.
+   Обрабатывать команды push back и pop front.
+   
+   developed by Lev "Crashdown" Vinokurov
 */
 #include <cassert>
 #include <iostream>

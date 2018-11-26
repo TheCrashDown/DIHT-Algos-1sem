@@ -1,7 +1,7 @@
-/*Найти, на сколько нулей оканчивается n! = 1 * 2 * 3 * … * n. n ≤ 1000.
-
-Выполнил : Lev "Crashdown" Vinokurov
-
+/* Task :
+   Найти, на сколько нулей оканчивается n! = 1 * 2 * 3 * … * n. n ≤ 1000.
+   
+   developed by Lev "Crashdown" Vinokurov
 */
 #include <iostream>
 

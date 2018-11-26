@@ -1,7 +1,7 @@
-﻿/*Даны отрезки. Найти длину прямой, покрытую ровно одним отрезком.
-
-Выполнил : Lev "Crashdown" Vinokurov
-
+/* Task :
+   Даны отрезки. Найти длину прямой, покрытую ровно одним отрезком.
+   
+   developed by Lev "Crashdown" Vinokurov
 */
 #include <iostream>
 #include <cmath>
