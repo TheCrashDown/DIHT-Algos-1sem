@@ -1,1 +1,0 @@
-Second contest, based on sorting algorithms.
