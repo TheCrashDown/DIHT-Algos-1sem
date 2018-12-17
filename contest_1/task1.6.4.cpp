@@ -4,7 +4,8 @@
    этом массиве k, k<=n. Требуется для каждого положения окна (от 0 и до n-k) вывести значение
    максимума в окне. Скорость работы O(n log n), память O(n).
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
    (решение с использованием дерева отрезков)
 */
 #include <iostream>

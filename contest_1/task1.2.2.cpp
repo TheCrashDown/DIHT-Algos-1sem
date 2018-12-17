@@ -6,7 +6,8 @@
    Указание. Для вычисления площади n-угольника можно посчитать сумму
    ориентированных площадей трапеций под каждой стороной многоугольника.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 

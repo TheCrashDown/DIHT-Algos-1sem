@@ -2,7 +2,8 @@
    Реализовать очередь с динамическим зацикленным буфером.
    Обрабатывать команды push back и pop front.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <cassert>
 #include <iostream>

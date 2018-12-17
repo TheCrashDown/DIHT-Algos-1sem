@@ -4,7 +4,8 @@
    Найти m за O( log m ).
    2 ≤ n ≤ 10000.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 using namespace std;

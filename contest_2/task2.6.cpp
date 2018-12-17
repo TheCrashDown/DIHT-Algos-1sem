@@ -12,7 +12,8 @@
    4. Оптимизация рекурсии
    5. Оптимизация концевой рекурсии
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 #include <vector>

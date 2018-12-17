@@ -3,7 +3,8 @@
    в постфиксную запись.
    Выражение не содержит отрицительных чисел. Количество операций ≤ 100.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 

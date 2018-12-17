@@ -5,7 +5,8 @@
    
    Решить, используя алгоритм MSD - сортировки по символам строки.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 #include <vector>

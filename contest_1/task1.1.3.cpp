@@ -3,7 +3,8 @@
    Сложить две рациональные дроби a/b и c/d, а их результат представить
    в виде несократимой дроби m/n. Вывести числа m и n. a, b, c, d ≤ 1000.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 

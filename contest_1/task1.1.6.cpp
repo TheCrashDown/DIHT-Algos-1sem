@@ -3,7 +3,8 @@
    массивов переставить элементы массива A в обратном порядке за O(n).
    n ≤ 10000.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 

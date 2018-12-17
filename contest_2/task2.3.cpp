@@ -7,7 +7,8 @@
    Решить, используя алгоритм поиска k-й порядковой статистики
    на основе функции Partition из сортировки QuickSort
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 #include <stdlib.h>

@@ -4,7 +4,8 @@
    элемента массива A, равного или превосходящего
    B[i]: A[k] >= B[i]. Если такого элемента нет, выведите n. n, m ≤ 10000.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 

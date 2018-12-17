@@ -2,7 +2,8 @@
    Вывести квадраты натуральных чисел от 1 до n, используя только O(n)
    операций сложения и вычитания (умножением пользоваться нельзя). n ≤ 1000.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 

@@ -3,7 +3,8 @@
    что НОД(A, B) максимален, A ≤ B. Вывести A и B. Если возможно
    несколько ответов - вывести ответ с минимальным A. n ≤ 10 000 000.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 

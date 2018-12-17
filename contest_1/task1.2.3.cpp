@@ -4,7 +4,8 @@
    Время работы O(n + m). n, m ≤ 100000.
    Указание. Обходите массив B от конца к началу.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 #include <cmath>

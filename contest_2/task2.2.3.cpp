@@ -6,7 +6,8 @@
    
    Решить, используя сортировку кучей.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 #include <vector>

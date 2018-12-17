@@ -3,7 +3,8 @@
    Для каждого элемента массива B[i] найдите минимальный индекс элемента массива A[k],
    ближайшего по значению к B[i]. n ≤ 110000, m ≤ 1000..
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 #include <cmath>

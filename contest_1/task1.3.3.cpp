@@ -5,7 +5,8 @@
    В процессе поиска очередного элемента B[i] в массиве A пользуйтесь результатом поиска
    элемента B[i-1]. n, k ≤ 10000.
    
-   developed by Lev "Crashdown" Vinokurov
+   developed by Crashdown
+
 */
 #include <iostream>
 
