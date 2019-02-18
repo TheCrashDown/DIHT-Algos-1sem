@@ -1,1 +1,1 @@
-Hash Table, DP, greedy algorithm
+**Hash Table, DP, greedy algorithm**
