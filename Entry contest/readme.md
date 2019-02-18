@@ -1,1 +1,1 @@
-**Opening contest (only one file was saved).**
+**Entry contest (only one file was saved).**
