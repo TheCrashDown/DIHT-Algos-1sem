@@ -1,4 +1,4 @@
-﻿# MIPT-Contests
+﻿# MIPT-Algos-1sem
 My solutions of MIPT Contests tasks
 
 Probably they : 
