@@ -1,4 +1,4 @@
-﻿# MIPT-Algos-1sem
+# MIPT-Algos-1sem
 My solutions of MIPT Algorithms & Data Structures contests tasks
 
 Probably they : 
