@@ -1,1 +1,1 @@
-**Trees & Huffman algorithm**
+# Trees & Huffman algorithm
