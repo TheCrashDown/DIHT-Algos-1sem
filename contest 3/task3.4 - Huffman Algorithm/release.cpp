@@ -1,6 +1,6 @@
-/*  Task : Алгоритм сжатия данных Хаффмана
+/* Task : Алгоритм сжатия данных Хаффмана
 
-    developed by Crashdown
+   developed by Crashdown
     
 */
 #include <iostream>
